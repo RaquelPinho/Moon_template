@@ -92,6 +92,24 @@
 					<li><a href="{{ site.url }}/tags/">All Tags</a></li>
 				</ul>
 			</li>
+			
+			{% for link in site.data.navigation %}
+		    {% if link.url contains 'http' %}
+		        {% assign domain = '' %}
+		        {% else %}
+		        {% assign domain = site.url %}
+		    {% endif %}
+		    <li><a href="{{ domain }}{{ link.url }}" {% if link.url contains 'http' %}target="_blank" rel="noopener noreferrer"{% endif %}>{{ link.title }}</a></li>
+		  {% endfor %}
+		  <li>
+				<a href="#">Rpackages</a>
+				<ul class="dl-submenu">
+					<li><a href="{{ site.url }}/rpackages/">All Packages</a></li>
+					<li><a href="https://github.com/RaquelPinho/SeqReport">SeqReport</a></li>
+					<li><a href="https://github.com/RaquelPinho/GENEscraping">GENEscraping</a></li>
+				</ul>
+			</li>
+			
 			{% for link in site.data.navigation %}
 		    {% if link.url contains 'http' %}
 		        {% assign domain = '' %}

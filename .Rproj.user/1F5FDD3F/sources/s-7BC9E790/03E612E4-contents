@@ -1,0 +1,15 @@
+---
+layout: page
+title: "R packages"
+date: 2013-05-22
+excerpt: "R packages developed by Raquel Pinho."
+feature: /assets/img/claro_293_2_linear.jpg
+comments: false
+---
+  {% highlight html %}
+<figure class="half">
+  <a href="/images/image-filename-1-large.jpg"><img src="/images/image-filename-1.jpg"></a>
+  <a href="/images/image-filename-2-large.jpg"><img src="/images/image-filename-2.jpg"></a>
+  <figcaption>Caption describing these two images.</figcaption>
+  </figure>
+  {% endhighlight %}
