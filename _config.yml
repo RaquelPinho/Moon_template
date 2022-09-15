@@ -8,11 +8,11 @@ logo:               'assets/img/CV_pic.jpg'
 background:         'assets/img/hct_col_a9_gfp.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
-url:                https://raquelpinho.github.io/RaquelPinho/
+url:                https://raquelpinho.github.io
 
 # Jekyll
 permalink:          /:title/
-markdown:           Rmarkdown
+markdown:           kramdown
 highlighter:        darkgreen
 kramdown:
   auto_ids:         true
