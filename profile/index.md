@@ -20,24 +20,30 @@ learn and share knowledge.
 
 ## Experience
 
-<table border="0">
- <tr>
-    <td><b style="font-size:12px">Title</b></td>
-    <td><b style="font-size:12px">Title 2</b></td>
-    <td><b style="font-size:12px">Title </b></td>
- </tr>
- <tr>
-    <td>Lorem ipsum ...</td>
-    <td>Lorem ipsum ...</td>
-    <td>
-    <ul>
-    <li>stuff</li>
-    <li>stuff</li>
-    <li>stuff</li>
-    </ul>
-    <td>
- </tr>
-</table>
+| Molecular Biology | Programming | Data analysis |
+|:--------|:-------:|--------:|
+| PCR   | R   | RNAseq data processing   |
+| qPCR   | Rmarkdown   | RNAseq data analysis   |
+| RTPCR   | Shiny   | RNAseq data visualization  |
+| ddPCR (QX200)  | Dashboards(Shiny)   | Amplicon sequencig analysis    |
+| rhAmpSeq   | Linux shell   | Amplicon deep sequencig analysis (Illumina/PacBio)  |
+| CHANGE-Seq   | Slurm   | Statistical analysis   |
+| DNA extraction   | SQL   | Data visualization   |
+| RNA extraction   | Python   | DNA methylation analysis   |
+| Sanger sequencing   |   |   |
+| Cloning   | Jupyter notebook   |    |
+| Bacterial transformation   | Web scraping |    |
+| Cellular transfection   | R packages  |    |
+| RFLP   |   |    |
+| CRISPR/Cas9 system   |    |    |
+| Genotyping   |   |    |
+| Library construction (NGS)   |   |    |
+| Western blot   |    |    |
+| Southern blot   |    |    |
+| Mammalian cell culture   |    |    |
+| Oocyte collection   |    |    |
+| Protein extraction   |   |    |
+|=====
 
 ## Education
 
