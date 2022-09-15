@@ -8,7 +8,7 @@ comments: false
   
 <center><a href="http://raquelpinho.github.io/Moon_template"><b style="font-size:20px">Raquel Pinho</b></a></center>
 
-<center><Molecular Biology and Genetics | R&D | Project and Laboratory managment.
+<center><Molecular Biology and Genetics | R&D | Project and Laboratory managment.></center>
 
 ## Profile
 
