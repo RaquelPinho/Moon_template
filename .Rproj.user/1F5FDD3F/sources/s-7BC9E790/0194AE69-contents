@@ -8,7 +8,7 @@ comments: false
   
 <center><a href="http://raquelpinho.github.io/Moon_template"><b style="font-size:20px">Raquel Pinho</b></a></center>
 
-<center><Molecular Biology and Genetics | R&D | Project and Laboratory managment.></center>
+<center>Molecular Biology and Genetics | R&D | Project and Laboratory managment.</center>
 
 ## Profile
 
@@ -53,7 +53,7 @@ learn and share knowledge.
 December 2019.
 
 **Master of Science** at School of Veterinary Medicine and Animal
-Science of the University of São Paulo, SP - Brazil. September 2014.\
+Science of the University of São Paulo, SP - Brazil. September 2014.
 
 **Bachelor’s degree in physicaltherapy** at University of Fortaleza,
 CE - Brazil. December 2011.
