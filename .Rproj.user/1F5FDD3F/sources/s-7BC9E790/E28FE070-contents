@@ -1,7 +1,7 @@
 # Site
-title:              Moon
-bio:                'Minimal, one column jekyll theme.'
-description:        "Moon is a minimal, one column jekyll theme for your blog."
+title:              Raquel Pinho
+bio:                'Molecular biologist and data analyst. '
+description:        "PhD in animal science, 10 years of laboratory experience. "
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/logo.png'
@@ -13,7 +13,7 @@ url:                https://raquelpinho.github.io/Moon_template
 # Jekyll
 permalink:          /:title/
 markdown:           kramdown
-highlighter:        rouge
+highlighter:        green
 kramdown:
   auto_ids:         true
   footnote_nr:      1
