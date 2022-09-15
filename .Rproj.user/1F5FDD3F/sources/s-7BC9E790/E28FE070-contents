@@ -5,7 +5,7 @@ description:        "PhD in animal science, 10 years of laboratory experience. "
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/CV_pic_red.png'
-background:         'assets/img/placeholder-big.jpg'
+background:         'assets/img/gfp_293_4_linear.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
 url:                https://raquelpinho.github.io/Moon_template
@@ -26,7 +26,7 @@ sass:
   style:            compressed
 
 # Comments
-disqus_shortname:   taylantatli
+disqus_shortname:   raquelpinho
 
 # Social
 # if you don't have any of social below, comment the line.
