@@ -1,14 +1,16 @@
 ---
 layout: page
-title: About the Theme
+title: Raquel Pinho
 tags: [about, Jekyll, theme, moon]
-date: 2016-03-21
+date: 2022-09-11
 comments: false
 ---
     
-<center><a href="http://taylantatli.github.io/Moon"><b>Moon</b></a> is a minimal, one column jekyll theme.</center>
+<center><a href="https://github.com/RaquelPinho/RaquelPinho"><b>/Molecular biologist and data analyst</b></a></center>
 
-## Features
+## Profile
+
+
 * Minimal, you can focus on your content
 * Responsive
 * Disqus integration
