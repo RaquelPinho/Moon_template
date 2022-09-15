@@ -22,9 +22,9 @@ learn and share knowledge.
 
 <table border="0">
  <tr>
-    <td><b style="font-size:30px">Title</b></td>
-    <td><b style="font-size:30px">Title 2</b></td>
-    <td><b style="font-size:30px">Title </b></td>
+    <td><b style="font-size:12px">Title</b></td>
+    <td><b style="font-size:12px">Title 2</b></td>
+    <td><b style="font-size:12px">Title </b></td>
  </tr>
  <tr>
     <td>Lorem ipsum ...</td>
@@ -39,6 +39,7 @@ learn and share knowledge.
  </tr>
 </table>
 
+## Education
 
 * Minimal, you can focus on your content
 * Responsive
