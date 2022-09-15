@@ -118,3 +118,8 @@ Mycobacterium Avium ssp paratuberculosis.
 
 ## Courses
 
+Data Intensive Biology Summer Institute (DIBSI) ANGUS workshop. University of California, June 26th to July 8th
+2017.
+Introuduction to SQL Server/ SQL for joining data/ Data manipulation in SQL/ Intermediate SQL queries, DataCamp 2021/2022
+Exploratory Data Analysis in Python/ Intermediate Python/ Python Data Science Toolbox, DataCamp 2021
+Understanding Data visualization/ Introduction to tidyverse. DataCamp 2021
