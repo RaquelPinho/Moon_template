@@ -21,7 +21,7 @@ learn and share knowledge.
 ## Experience
 
 | Molecular Biology | Programming | Data analysis |
-|:--------|:-------:|--------:|
+|:--------|:-------|:--------|
 | PCR   | R   | RNAseq data processing   |
 | qPCR   | Rmarkdown   | RNAseq data analysis   |
 | RTPCR   | Shiny   | RNAseq data visualization  |
@@ -30,10 +30,10 @@ learn and share knowledge.
 | CHANGE-Seq   | Slurm   | Statistical analysis   |
 | DNA extraction   | SQL   | Data visualization   |
 | RNA extraction   | Python   | DNA methylation analysis   |
-| Sanger sequencing   |   |   |
 | Cloning   | Jupyter notebook   |    |
 | Bacterial transformation   | Web scraping |    |
 | Cellular transfection   | R packages  |    |
+| Sanger sequencing   |   |   |
 | RFLP   |   |    |
 | CRISPR/Cas9 system   |    |    |
 | Genotyping   |   |    |
