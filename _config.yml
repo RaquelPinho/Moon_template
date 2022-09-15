@@ -2,7 +2,7 @@
 title:              Raquel Pinho
 bio:                'Molecular biologist and data analyst. '
 description:        "PhD in animal science, 10 years of laboratory experience. "
-reading_time:       true
+reading_time:       false
 words_per_minute:   200
 logo:               'assets/img/CV_pic_red.png'
 background:         'assets/img/gfp_293_4_linear.jpg'
@@ -13,7 +13,7 @@ url:                https://raquelpinho.github.io/Moon_template
 # Jekyll
 permalink:          /:title/
 markdown:           kramdown
-highlighter:        green
+highlighter:        rouge
 kramdown:
   auto_ids:         true
   footnote_nr:      1
@@ -37,20 +37,20 @@ disqus_shortname:   raquelpinho
   #ad-client:
   #ad-slot:
 #bing-verify:
-#email:
-twitter:            username
-facebook:           username
-github-url:         username
+email:              rdpinho@ucdavis.edu
+#twitter:            username
+#facebook:           username
+github-url:         https://github.com/RaquelPinho
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
 #linkedin:          username
 #xing:              username
-instagram:          username
+instagram:          @raquel.p.mello
 #lastfm:            username
 #tumblr:            username
 #medium:            '@username'
 #pinterest:         username
 #foursquare:        username
-steam:              username
+#steam:              username
 #dribbble:          username
 #youtube:           username
 #youtube-channel:   channel
