@@ -18,7 +18,7 @@ comments: false
 
 
 
-<table border="0">
+<table border="2px solid white">
  <tr>
     <td><b style="font-size:20px">GENEscraping</b></td>
     <td><b style="font-size:20px">SeqReport</b></td>
