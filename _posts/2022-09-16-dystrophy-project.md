@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Improvement of Homologous Directed Repair in dog cells"
-date:   2016-04-06
+date:   2012 - 2014
 excerpt: "Use of siRNA to silence NHEJ machinary and improve HDR efficiency in dog cells."
 project: true
 tag:
