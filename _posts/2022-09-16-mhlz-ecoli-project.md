@@ -50,7 +50,7 @@ microbiota 16S data using MixOmics.
 
 ## Description 
 
-Goat milk containing human lysozyme (hLZ) has shown beneficial effects on microbiome composition, gastro-intestinal (GI) morphology and the clinical condition of pigs. To explore the effect of hLZ milk on intestinal gene expression in malnourished animals, RNA-seq was conducted with tissue from the duodenum, jejunum and ileum of malnourished piglets fed with hLZ milk, regular goat milk or with no milk supplementation. Gene co-expression analysis and pheno- typic correlations were made with WGCNA, while integration of transcriptome with microbiota information and the hepatic metabolite profile was done using mixOmics. 
+Goat milk containing human lysozyme (hLZ) has shown beneficial effects on microbiome composition, gastro-intestinal (GI) morphology and the clinical condition of pigs including during infection if enterotoxigenic E.coli (ETEC) . To explore the effect of infection and hLZ milk supplementation before/during infection on intestinal gene expression in malnourished animals, RNA-seq was conducted with tissue from the duodenum, jejunum and ileum of malnourished piglets fed with hLZ milk, regular goat milk or with no milk supplementation and then challenged with ETEC . Gene co-expression analysis and pheno- typic correlations were made with WGCNA, while integration of transcriptome with microbiota information and the hepatic metabolite profile was done using mixOmics.  
 
 ## Data 
 
