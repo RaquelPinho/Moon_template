@@ -16,9 +16,13 @@ comments: false
 <a href="https://github.com/RaquelPinho/SeqReport"><img src="seqreport.png"></a>
 </figure>
 
+style type="text/css">
+  td {
+    padding: 0 15px;
+  }
+</style>
 
-
-<table border="10px white">
+<table border="0">
  <tr>
     <td><b style="font-size:20px">GENEscraping</b></td>
     <td><b style="font-size:20px">SeqReport</b></td>
