@@ -12,8 +12,8 @@ comments: false
 
 
 <figure class="half">
-<a href="https://github.com/RaquelPinho/GENEscraping"><img src="/assets/img/genescraping.png"></a>
-<a href="https://github.com/RaquelPinho/SeqReport"><img src="/assets/img/seqreport.png"></a>
+<a href="https://github.com/RaquelPinho/GENEscraping"><img src="assets/img/genescraping.png"></a>
+<a href="https://github.com/RaquelPinho/SeqReport"><img src="assets/img/seqreport.png"></a>
 </figure>
 
 
