@@ -10,12 +10,12 @@ comments: false
 
 <center>Molecular Biology and Genetics | R&D | Project and Laboratory managment.</center>
 
-{% highlight html %}
+
 <figure class="half">
 <a href="https://github.com/RaquelPinho/GENEscraping"><img src="{{ site.url }}/assets/img/genescraping.jpg"></a>
 <a href="https://github.com/RaquelPinho/SeqReport"><img src="{{ site.url }}/assets/img/seqreport.jpg"></a>
 </figure>
-{% endhighlight %}
+
 
 {% highlight html %}
 <table border="0">
