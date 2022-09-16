@@ -6,9 +6,9 @@ date: 2022-09-16
 comments: false
 ---
   
-<center><a href="http://raquelpinho.github.io/Moon_template"><b style="font-size:20px">Raquel Pinho</b></a></center>
 
-<center>Molecular Biology and Genetics | R&D | Project and Laboratory managment.</center>
+
+<center>This are the packages developded by Raquel Pinho.</center>
 
 
 <figure class="half">
