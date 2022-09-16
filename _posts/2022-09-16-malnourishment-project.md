@@ -51,13 +51,13 @@ Malnourishment is a risk factor for childhood mortality, jeopardizing the health
 
 ## Data 
 
-BioProject: ![PRJNA823693](https://www.ncbi.nlm.nih.gov/bioproject/?term=PRJNA823693)
+BioProject: [PRJNA823693](https://www.ncbi.nlm.nih.gov/bioproject/?term=PRJNA823693)
 
 ## Publications
 
-* PINHO, R. M.; GARAS L.C.; HUANG B.C; WEIMER B.C.; MAGA, E.A. ![Malnourishment affects gene expression along the
+* PINHO, R. M.; GARAS L.C.; HUANG B.C; WEIMER B.C.; MAGA, E.A. [Malnourishment affects gene expression along the
 length of the small intestine.](https://doi.org/10.3389/fnut.2022.894640) Front. Nutr., 02 September 2022, Sec. Nutrigenomics https://doi.org/10.3389/fnut.2022.894640.
-* PINHO, R. M. ; MAGA, E.A. ![DNA methylation as a regulator of intestinal gene expression.](https://www.cambridge.org/core/journals/british-journal-of-nutrition/article/dna-methylation-as-a-regulator-of-intestinal-gene-expression/3D74229F65CFEFB06F11F54956E0FD93) British Journal of Nutrition. 2021 Dec 14;126(11):1611-1625. doi: 10.1017/S0007114521000556.
+* PINHO, R. M. ; MAGA, E.A. [DNA methylation as a regulator of intestinal gene expression.](https://www.cambridge.org/core/journals/british-journal-of-nutrition/article/dna-methylation-as-a-regulator-of-intestinal-gene-expression/3D74229F65CFEFB06F11F54956E0FD93) British Journal of Nutrition. 2021 Dec 14;126(11):1611-1625. doi: 10.1017/S0007114521000556.
 
 ## More
 
