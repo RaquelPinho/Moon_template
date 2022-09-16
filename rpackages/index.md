@@ -8,7 +8,7 @@ comments: false
   
 
 
-<center>This are the packages developded by Raquel Pinho.</center>
+<center>R packages developed by Raquel Pinho.</center>
 
 
 <figure class="half">
