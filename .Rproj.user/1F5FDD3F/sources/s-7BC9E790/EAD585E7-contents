@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Effects of lysozyme-rich milk on intestinal gene expression of malnourished piglets challenged with _E.coli_"
+title:  "Effects of lysozyme-rich milk on intestinal gene expression of malnourished piglets challenged with E.coli"
 date:   2022-09-16
 excerpt: "Gene expression and multi-omics intergration to analyze the effect of hLZ-rich milk supplementation on malanourished piglets before and after infection."
 project: true
