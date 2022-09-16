@@ -5,7 +5,7 @@ date: 2012-2014
 excerpt: "Use of siRNA to silence NHEJ machinary and improve HDR efficiency in dog cells."
 tags: [dog, distrophy, HDR, project]
 comments: true
-rproject: true
+project: true
 ---
   
 ## Colaborators
