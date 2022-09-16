@@ -1,11 +1,12 @@
 ---
-layout: post
-title:  "Effects of lysozyme-rich milk on intestinal gene expression of malnourished piglets"
+  layout: post
+title:  "Effects of lysozyme-rich milk on intestinal gene expression of malnourished piglets challenged with _E.coli_"
 date:   2022-09-16
-excerpt: "Gene expression and multi-omics intergration to analyze the effect of hLZ-rich milk supplementation on malanourished piglets."
+excerpt: "Gene expression and multi-omics intergration to analyze the effect of hLZ-rich milk supplementation on malanourished piglets before and after infection."
 project: true
 tag:
 - pigs 
+- Ecoli
 - hLZ milk
 - gene expression
 - Omics integration
@@ -59,8 +60,6 @@ BioProject: [PRJNA823693](https://www.ncbi.nlm.nih.gov/bioproject/?term=PRJNA823
 
 * PINHO, R. M.; GARAS L.C.; HUANG B.C; WEIMER B.C.; MAGA, E.A.. Lysozyme-rich milk affects gene expression along the
 length of porcine small intestine before and during enteropathogenic Escherichia coli infection. (submitted 2022).
-* PINHO, R. M.; GARAS L.C.; HUANG B.C; WEIMER B.C.; MAGA, E.A. Milk from lysozyme transgenic goats influences gene expression in the intestine in a pig
-model of malnutrition. XII Transgenic Animal Research Conference (TARC), Lake Tahoe City, CA, United States. 2019.
 
 ## More
 
