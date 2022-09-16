@@ -62,4 +62,4 @@ length of the small intestine.](https://doi.org/10.3389/fnut.2022.894640) Front.
 ## More
 
 <div markdown="0"><a href="https://github.com/RaquelPinho/" class="btn">Github page</a></div>
-<div markdown="0"><a href="mhlz_dashboard.html" class="btn">Dashboard</a></div>
+<div markdown="0"><a href="mal_dashboard.html" class="btn">Dashboard</a></div>
