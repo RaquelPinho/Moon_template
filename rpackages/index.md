@@ -17,7 +17,7 @@ comments: false
 </figure>
 
 
-{% highlight html %}
+
 <table border="0">
  <tr>
     <td><b style="font-size:20px">GENEscraping</b></td>
@@ -32,4 +32,4 @@ comments: false
     <td><a href="https://github.com/RaquelPinho/SeqReport" class="btn zoombtn">Read More</a></td>
  </tr>
 </table>
-{% endhighlight %}
+
