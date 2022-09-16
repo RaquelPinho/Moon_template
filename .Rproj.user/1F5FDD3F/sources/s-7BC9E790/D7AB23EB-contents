@@ -16,7 +16,7 @@ comments: false
 <a href="https://github.com/RaquelPinho/SeqReport"><img src="seqreport.png"></a>
 </figure>
 
-style type="text/css">
+<style type="text/css">
   td {
     padding: 0 15px;
   }
