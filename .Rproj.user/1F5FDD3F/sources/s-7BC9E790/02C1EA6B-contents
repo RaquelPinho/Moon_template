@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Improvement of Homologous Directed Repair in dog cells"
-date:   2012 - 2014
+date:   2022-09-16
 excerpt: "Use of siRNA to silence NHEJ machinary and improve HDR efficiency in dog cells."
 project: true
 tag:
@@ -11,6 +11,11 @@ tag:
 - project
 comments: true
 ---
+
+## Period 
+
+2011 - 2014
+
 ## Colaborators
   
 **Responsible:** Raquel Pinho 
