@@ -1,19 +1,19 @@
 {
-    "id": "B4F573C3",
-    "path": "D:/Raquel/Desktop/Git_website/Moon_template/_layouts/page.html",
-    "project_path": "_layouts/page.html",
-    "type": "html",
+    "id": "CCF37B10",
+    "path": "D:/Raquel/Desktop/Git_website/Moon_template/_posts/2016-03-20-markdown-syntax.md",
+    "project_path": "_posts/2016-03-20-markdown-syntax.md",
+    "type": "markdown",
     "hash": "0",
     "contents": "",
     "dirty": false,
-    "created": 1663357253460.0,
+    "created": 1663361657141.0,
     "source_on_save": false,
     "relative_order": 7,
     "properties": {
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "17,82",
-        "scrollLine": "0"
+        "cursorPosition": "90,18",
+        "scrollLine": "91"
     },
     "folds": "",
     "lastKnownWriteTime": 1663260897,
