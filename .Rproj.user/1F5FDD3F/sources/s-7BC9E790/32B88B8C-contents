@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "Improvement of Homologous Directed Repair in dog cells."
-date: 2012-05-22
-excerpt: "Use of siRNA for silence the NHEJ machinary to improve HDR efficiency in dog cells."
+date: 2012-2014
+excerpt: "Use of siRNA to silence NHEJ machinary and improve HDR efficiency in dog cells."
 tags: [dog, distrophy, HDR, project]
 comments: true
 rproject: true
@@ -11,12 +11,19 @@ rproject: true
 ## Colaborators
   
 **Responsible:** Raquel Pinho 
+
 **PI:** Dr.Luciana Relly Bertolini, University of Fortaleza, CE - Brazil
+
 **PI:** Dr. Carlos Eduardo Ambrosio, University of Sao Paulo, SP - Brazil
+
 **Colaborator:** Dr. James Murray, University of Californa, Davis, CA - United States
+
 **Colaborator:** Dr. Elizabeth Maga, University of Californa, Davis, CA - United States
+
 **Colaborator:** Dr. Kaio Cesar Tavares, University of Fortaleza, CE - Brazil
+
 **Colaborator:** Dr. Marcelo Bertolini, University of Fortaleza, CE - Brazil
+
 **Colaborator:** Dr. Leonardo Martins, University of Fortaleza, CE - Brazil
 
 ## Location
@@ -41,4 +48,4 @@ enhanced gene editing of dystrophin gene by TALENs.
 
 ## Publication
 
-•	Use of RNAi–mediated gene silencing and Tal effector nucleases to enhance gene targeting events in dog cells. Master thesis (2014).
+Use of RNAi–mediated gene silencing and Tal effector nucleases to enhance gene targeting events in dog cells. Master thesis (2014).
