@@ -59,7 +59,7 @@ and posterior electroporation of CRISPR/Cas9 components.
 sequencing and PacBio SMRT Sequencing.
 * Assay development for guideRNA/Cas9 efficiency using qPCR and ddPCR.
 * Development of multiplex rhAmpSeq PCR panel for analysis off-target sites.
-•* Management of molecular biology laboratory.
+* Management of molecular biology laboratory.
 
 ## Description 
 
