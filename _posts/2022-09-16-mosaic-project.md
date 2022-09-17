@@ -2,7 +2,7 @@
 layout: post
 title:  "Mosaicism effects of CRISPR/Cas9 system in porcine embryos."
 date:   2022-09-16
-excerpt: "Evaluation of on-target and off-target effects of CRISPR/Cas9 system in porcine embryos and Knock-out fetuses."
+excerpt: "Evaluation of on-target and off-target effects of CRISPR/Cas9 system in porcine embryos."
 project: true
 tag:
 - pigs 
